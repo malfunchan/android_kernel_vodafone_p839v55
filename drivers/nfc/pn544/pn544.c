@@ -28,7 +28,7 @@
 #include <linux/jiffies.h>
 #include <asm/uaccess.h>
 #include <linux/gpio.h>
-#include <pn544.h>
+#include "pn544.h"
 #include <linux/delay.h>
 #include <linux/hrtimer.h>
 #include <linux/interrupt.h>
